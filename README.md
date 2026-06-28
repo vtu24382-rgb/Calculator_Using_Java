@@ -23,7 +23,9 @@ This is a basic calculator that performs arithmetic operations including additio
 
 ## Screenshot Layout
 
+<img width="434" height="313" alt="Screenshot 2026-06-28 201836" src="https://github.com/user-attachments/assets/8ad41ff5-5f28-4a08-94f6-e41297c920cb" />
+
 <img width="434" height="313" alt="Screenshot 2026-06-28 201915" src="https://github.com/user-attachments/assets/31081dea-5daa-4be2-b2b4-38cdc0604cf0" />
+
 <img width="428" height="313" alt="Screenshot 2026-06-28 201853" src="https://github.com/user-attachments/assets/61f1084d-e696-42dc-9e86-f315065cbfa6" />
-<img width="434" height="313" alt="Screenshot 2026-06-28 201915" src="https://github.com/user-attachments/assets/74f34a4f-9d5d-4ade-bec3-8532ff06af43" />
 
